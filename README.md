@@ -11,7 +11,7 @@
 
 - Prime+Count implements fast covert channels in single-core and cross-core scenarios in the TrustZone.
 - Prime+Count achieves low-noise covert channel via monitoring how many L1/L2 cache refill events happens.
-- To get full details, See the paper. [1]
+- To get full details, See the paper.
 
 ## How to build
 
@@ -48,9 +48,9 @@
 
 - images/ :  images for experiments.
 
-## References
+## Full paper
 
-- [1] Prime+Count: Novel Cross-world Covert Channels on ARM TrustZone (Will be disclosed soon)
+- [Prime+Count: Novel Cross-world Covert Channels on ARM TrustZone](http://www.public.asu.edu/~hcho67/papers/prime+count-acsac18.pdf)
 
 ## License
 
